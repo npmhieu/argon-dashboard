@@ -2559,11 +2559,6 @@ pre code
     background-color: #fff;
     box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .25);
 }
-.form-control::-ms-input-placeholder
-{
-    opacity: 1; 
-    color: #6c757d;
-}
 .form-control::placeholder
 {
     opacity: 1; 
